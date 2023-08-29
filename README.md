@@ -1,4 +1,5 @@
 # The Hunted!
+Made for MIT Blueprint Hackathon 20'
 
 ## Objective
 The objective of the game is to capture 15 hiders and avoid getting caught by the evil robot seekers.
